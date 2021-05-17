@@ -1,0 +1,48 @@
+{
+  "identifier" : "B2BDF611",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "63CA6347",
+      "localizations" : [
+        {
+          "description" : "B",
+          "displayName" : "F",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "product.one",
+      "referenceName" : "Foo",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "D171A8DB",
+      "localizations" : [
+        {
+          "description" : "ba",
+          "displayName" : "bart",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "product.another",
+      "referenceName" : "bar",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
